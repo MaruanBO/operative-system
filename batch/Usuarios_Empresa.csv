@@ -1,0 +1,14 @@
+NOMBRE;APELLIDOS;CLAVE;DIAS;HORAS;GRUPO;CAMBIAR PASSW?;
+Jose;Gomez;Miclave1;LUNES-SABADO;8AM-7PM;Direccion;SI;;
+Juan Ramon;Olmos;Miclave1;LUNES-VIERNES;8AM-7PM;Direccion;NO;;
+Pedro;Moreno;Miclave1;LUNES-SABADO;8AM-8PM;Administracion;SI;;
+Juan Manuel;Guillen;Miclave1;LUNES-VIERNES;8AM-2PM;Administracion;SI;;
+Alberto;Caparros;Miclave1;LUNES-VIERNES;2PM-8PM;Administracion;SI;;
+Jose María;Prados;Miclave1;LUNES-VIERNES;8AM-8PM;Comercial;SI;;
+Rafael;Maroto;Miclave1;LUNES-VIERNES;8AM-7PM;Comercial;SI;;
+Eva;Lozano;Miclave1;LUNES-VIERNES;8AM-7PM;Comercial;SI;;
+Juan de Dios;Santander;Miclave1;LUNES-VIERNES;8AM-8PM;Produccion;SI;;
+Alejandro;Morales;Miclave1;LUNES-VIERNES;8AM-7PM;Produccion;SI;;
+Miguel Angel;Lopez;Miclave1;LUNES-VIERNES;8AM-7PM;Produccion;SI;;
+Dionisio;Perez;Miclave1;LUNES-VIERNES;8AM-7PM;Produccion;NO;;
+;;;;;;;;
